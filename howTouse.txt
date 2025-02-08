@@ -1,0 +1,2 @@
+1)Run npm install in the root directory.
+2) Run npm start

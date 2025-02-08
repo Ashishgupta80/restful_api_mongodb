@@ -1,0 +1,26 @@
+{
+  "name": "restfullapis",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "assinmment one the backend module restful apis",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restapis",
+    "internshala",
+    "assignmentone",
+    "backend"
+  ],
+  "author": "Ashish Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
